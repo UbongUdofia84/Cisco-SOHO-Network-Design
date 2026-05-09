@@ -192,21 +192,12 @@ Potential enhancements for this network include:
 - LAN Switching
 - Routing Fundamentals
 
----
-
-
 ```
 ---
-## Learning Reflection
+
+## 📚 Learning Outcome
 
 This project provided practical exposure to designing and configuring a basic enterprise-style network. It strengthened my understanding of IP addressing, router configuration, network troubleshooting, and inter-network communication within a simulated environment.
 
 ---
 
-## 👨‍💻 Author
-
-**Ubong Udofia**
-
-Aspiring Network & Systems Administrator | Cybersecurity Enthusiast
-
----
